@@ -1,2 +1,2 @@
 # php-ejercicios
-ejercicios de php
+Those are exercices that I do while learning to code in php :)
